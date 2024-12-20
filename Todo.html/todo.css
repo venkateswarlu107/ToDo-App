@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(22, 73, 73);
+    font-family: "Roboto", sans-serif;
+}
+.container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: white;
+    margin-left: 33%;
+    margin-top: 5px;
+}
+input{
+    width: 270;
+    padding: 8px;
+    border: 2px solid rgb(15, 73, 73);
+    outline: name;
+}
+button{
+    width: 60px;
+    height: 41px;
+    background-color: #31773e;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+}
